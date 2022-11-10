@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668113160 source:c:\users\mbagi\onedrive\Документы\udemy\c\section 12 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
